@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "qtime": "cpp"
+    },
+    "C_Cpp.intelliSenseEngineFallback": "Disabled"
+}

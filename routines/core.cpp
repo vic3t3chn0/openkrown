@@ -7,7 +7,7 @@
 
 #include "core.hpp"
 
-#include <routines.h>
+#include "routines.h"
 
 #define PI 3.14159265
 using namespace std;
@@ -84,4 +84,3 @@ int core()
     pthread_exit(NULL);
     
 }
-    
