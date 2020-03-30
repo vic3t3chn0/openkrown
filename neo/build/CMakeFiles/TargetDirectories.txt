@@ -1,0 +1,9 @@
+/home/pvicente/RBDOOM-3-BFG/neo/build/CMakeFiles/rebuild_cache.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/CMakeFiles/edit_cache.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/CMakeFiles/EkronFPS.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/CMakeFiles/precomp_header_rbdoom3bfg.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/CMakeFiles/rm_precomp_header.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/idlib/CMakeFiles/edit_cache.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/idlib/CMakeFiles/precomp_header_idlib.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/idlib/CMakeFiles/rebuild_cache.dir
+/home/pvicente/RBDOOM-3-BFG/neo/build/idlib/CMakeFiles/idlib.dir
